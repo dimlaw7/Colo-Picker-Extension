@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Color Picker",
+    "description": "Simple color picker extension. Easily select any color from your browser screen. Copy colors and convert to other color values",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "512": "icons/icon512.png"
+    }
+}
